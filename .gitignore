@@ -1,0 +1,10 @@
+# Ignore all object files
+*.o
+
+# Ignore executables 
+exercise.o
+exercise
+
+# Ingnore temporary or backup files
+*~
+*.temp
